@@ -9,6 +9,10 @@ http://developers.mercadolibre.com/authentication-and-authorization/
 ## Publish item:
 http://developers-forum.mercadolibre.com/topic/52-crear-publicacion-con-la-api/
 ```
+ https://api.mercadolibre.com/items?access_token=APP_USR-2463878006035380-090401-8f7bf8a1aae72c2c063ff07b67ed16ed__H_M__-244637569
+
+ Content-Type: application/json
+
 {
 	"title":"Anteojos Ray Ban Wayfare",
 	"category_id":"MCO118109",
