@@ -46,3 +46,7 @@ https://api.mercadolibre.com/categories/MCO118105/attributes
     ]
 }
 ```
+
+## Solution:
+
+https://www.acamica.com/cursos/103/trabajando-con-la-api-de-mercadolibre
