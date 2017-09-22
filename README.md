@@ -1,7 +1,8 @@
 # mercadolibre
+https://developers.mercadolibre.com.co
 
 ## Get application ID:
-https://developers.mercadolibre.com.co
+https://developers.mercadolibre.com.co/apps/home
 
 ## Get access token:
 http://developers.mercadolibre.com/authentication-and-authorization/
