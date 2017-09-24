@@ -1,0 +1,28 @@
+{
+  "name": "mercadolibre-application",
+  "version": "1.0.0",
+  "description": "Mercadolibre web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldajo92/mercadolibre.git"
+  },
+  "keywords": [
+    "Mercadolibre",
+    "api",
+    "webapp"
+  ],
+  "author": "aldajo92",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aldajo92/mercadolibre/issues"
+  },
+  "homepage": "https://github.com/aldajo92/mercadolibre#readme",
+  "dependencies": {
+    "mercadolibre": "0.0.13",
+    "request": "^2.82.0"
+  }
+}
